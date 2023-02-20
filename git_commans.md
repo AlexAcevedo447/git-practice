@@ -12,7 +12,8 @@ git log:
 
 git branch: Sirve para listar las ramas disponibles y crear nuevas
 
-git add:
+git add: Sirve para añadir al staging area(area temporal)
+los archivos o cambios de archivos existentes.
 
 git commit:
 
