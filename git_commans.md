@@ -19,4 +19,4 @@ los archivos o cambios de archivos existentes.
 
 `git push`: Sirve para enviar cambios o archivos desde el repositorio local al remoto
 
-`git merge`: Sirve para fusionar ramas
+`git merge`: Sirve para fusionar dos ramas
